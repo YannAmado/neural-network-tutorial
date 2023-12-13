@@ -45,11 +45,11 @@ A complete guide on how to build a neural network from scratch!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Neural Network Guide][product-screenshot]](https://example.com)
+<img src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif" alt="Neural Network Classification Gif">
 
-Understanding how neural networks works can be extremely challening, and even though there are great guides on the subject, I felt that a more code oriented approach would greatly benefit practical learners
+Understanding how neural networks works can be extremely challening, and even though there are great guides on the subject, I felt that a more code oriented approach would greatly benefit practical learners.
 
-With all this in mind I created 3 notebooks, each starting where the last one finished, that aimed to give very easy-to-follow explanations and going over all the necessary code and mathematical operations involved.
+With all this in mind I created 3 notebooks, each starting where the last one finished, that aimed to give very easy-to-follow explanations and going over all the necessary code and mathematical operations involved. The dataset that I used is the <a href="https://en.wikipedia.org/wiki/MNIST_database">MNIST dataset</a>, a dataset containing 60k training and 10k testing images if handwritten digits, going from 0 to 9, in a 28x28 pixel format
 
 The order to follow the notebooks is:
 1. myFirstNeuralNetwork.ipynb
